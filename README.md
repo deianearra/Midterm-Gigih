@@ -2,7 +2,7 @@
 # Tokopedia Play Clone
 
 ## Description
-Tokopedia Play Clone is a web application that allows users to view a list of videos and add videos to a playlist. Users can play videos from the playlist and see the most played videos. The project is built using Node.js, Express.js, MongoDB, and Mongoose.
+Tokopedia Play Clone is a web application that allows users to view a list of videos and add videos to a playlist. Users can play videos from the playlist and see the most played videos. This is Backend-only Project which built using Node.js, Express.js, and MongoDB.
 
 ## Features
 - View a list of videos with thumbnails from YouTube.
